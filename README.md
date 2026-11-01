@@ -24,4 +24,6 @@ Download the `.pbix` file and open it in Power BI Desktop.
 # Author
 Saad Shaikh | saad.shaikh1551@gmail.com
 linked in : https://www.linkedin.com/in/saad-s-062baa286
+If you found this useful, please give the repo a star.
 
+README IS Generated with CLAUDE HELP
